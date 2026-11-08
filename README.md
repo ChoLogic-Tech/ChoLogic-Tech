@@ -34,7 +34,7 @@ Currently working as an **IT Technician in the hospitality industry**, managing 
 #### 💻 Programming Stack
 * **The Foundations:** PHP (Standard/Native), HTML5, CSS3, JavaScript, Git, GitHub
 * **Frameworks & UI:** Laravel, React, Inertia.js, Tailwind CSS
-* **Databases:** PostgreSQL
+* **Databases:** PostgreSQL, MySQL
 
 #### 🖥️ IT Infrastructure & Operations
 * **Systems:** Active Directory, Windows Server, POS systems, HMS software
